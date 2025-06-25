@@ -20,7 +20,7 @@
     "antd": "^4.16.13",
     "axios": "^1.4.0",
     "rest-api-orchestrator": "^1.0.0",
-    "chai": "4.2.0",
+    "chai": "4.5.0",
     "chai-as-promised": "7.1.1",
     "chai-bignumber": "3.0.0",
     "crypto": "^1.0.1",
